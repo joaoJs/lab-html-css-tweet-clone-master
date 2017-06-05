@@ -12,7 +12,7 @@ body {
 }
 
 .image {
-  width: 20px;
+  width: 15px;
   margin-right: 10px;
 }
 
@@ -34,8 +34,9 @@ body {
 }
 
 .username{
+  margin-top: 40px;
   float: right;
-  margin-right: 180px;
+  margin-right: 130px;
 }
 
 h1 {
@@ -45,12 +46,16 @@ h1 {
 
 .follow {
   float: right;
-  float: right;
   width: 50px;
 }
 
 .user {
   width: 31%;
+}
+
+.validated {
+  margin-left: 5px;
+  width: 35px;
 }
 
 h2 {
